@@ -1,4 +1,4 @@
-# vue-vben-admin-doc
+# vue-vben-admin-doc omg
 
 ## 如何本地开发
 
